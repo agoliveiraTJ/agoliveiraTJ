@@ -1,3 +1,4 @@
+
 # 👋 Olá, eu sou Anderson Guedes de Oliveira!
 
 ## 🎯 Administrador e Analista de Sistemas | Desenvolvedor Web | Especialista em TI na área jurídica
@@ -35,11 +36,29 @@ Sou um profissional com sólida experiência em **análise de sistemas**, **dese
 
 ## 🧰 Tecnologias e Habilidades
 
-- **Linguagens & Frameworks**: Python, PHP, ASP, JavaScript, HTML, CSS, SQL  
-- **Plataformas**: Moodle, SEI, Power BI, Azure, AWS  
-- **Ferramentas**: Git, Docker, Adobe Suite, Visual Studio  
-- **Outros**: Arduino, VB.Net, C#, CorelDraw  
-- **Boas práticas**: ISO 9001, Auditoria Interna, LGPD, Scrum
+### 💻 Linguagens & Frameworks  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![ASP](https://img.shields.io/badge/-ASP-00599C?style=flat&logo=dotnet&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🧩 Plataformas  
+![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=flat&logo=moodle&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### ⚙️ Ferramentas  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+
+### 🛡️ Boas práticas  
+ISO 9001 • Auditoria Interna • LGPD • Scrum
 
 ---
 
@@ -67,11 +86,13 @@ Sou um profissional com sólida experiência em **análise de sistemas**, **dese
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-oliveira-b6304753/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agoliveira@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/anderson-sfoliveira)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/agoliveiraTJ)
 
 ---
 
-> *“Tecnologia como ponte entre inovação, serviço público e cidadania.”*
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agoliveiraTJ&show_icons=true&theme=default)
 
 ---
 
@@ -114,11 +135,29 @@ I’m a seasoned IT professional with strong experience in **systems analysis**,
 
 ## 🧰 Skills & Technologies
 
-- **Languages & Frameworks**: Python, PHP, ASP, JavaScript, HTML, CSS, SQL  
-- **Platforms**: Moodle, SEI, Power BI, Azure, AWS  
-- **Tools**: Git, Docker, Adobe Suite, Visual Studio  
-- **Extras**: Arduino, VB.Net, C#, CorelDraw  
-- **Best Practices**: ISO 9001, Internal Auditing, LGPD, Scrum
+### 💻 Languages & Frameworks  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![ASP](https://img.shields.io/badge/-ASP-00599C?style=flat&logo=dotnet&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🧩 Platforms  
+![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=flat&logo=moodle&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+
+### 🛡️ Best Practices  
+ISO 9001 • Internal Auditing • LGPD • Scrum
 
 ---
 
@@ -146,8 +185,10 @@ I’m a seasoned IT professional with strong experience in **systems analysis**,
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-oliveira-b6304753/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agoliveira@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/anderson-sfoliveira)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/agoliveiraTJ)
 
 ---
 
-> *“Technology as a bridge between innovation, public service, and citizenship.”*
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agoliveiraTJ&show_icons=true&theme=default)
