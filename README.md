@@ -86,8 +86,7 @@ ISO 9001 • Auditoria Interna • LGPD • Scrum
 
 ## 📊 Estatísticas GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoliveiraTJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agoliveiraTJ&show_icons=true&theme=default)
 
 ---
