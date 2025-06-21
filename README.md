@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou Anderson Guedes de Oliveira!
 
-## 🎯 Administrador e Analista de Sistemas | Desenvolvedor Web Ful Stack
+## 🎯 Administrador e Analista de Sistemas | Desenvolvedor Web Full Stack
 
 Sou um profissional com sólida experiência em **análise de sistemas**, **desenvolvimento web**, **administração de plataformas educacionais** e **suporte à magistratura**. Atuo desde 2000 na Escola da Magistratura do Estado do Rio de Janeiro (EMERJ), desenvolvendo soluções tecnológicas para o aperfeiçoamento contínuo dos magistrados.
 
