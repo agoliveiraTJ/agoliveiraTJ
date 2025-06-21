@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou Anderson Guedes de Oliveira!
 
-## 🎯 Administrador e Analista de Sistemas | Desenvolvedor Web | Especialista em TI na área jurídica
+## 🎯 Administrador e Analista de Sistemas | Desenvolvedor Web Ful Stack
 
 Sou um profissional com sólida experiência em **análise de sistemas**, **desenvolvimento web**, **administração de plataformas educacionais** e **suporte à magistratura**. Atuo desde 2000 na Escola da Magistratura do Estado do Rio de Janeiro (EMERJ), desenvolvendo soluções tecnológicas para o aperfeiçoamento contínuo dos magistrados.
 
@@ -9,7 +9,7 @@ Sou um profissional com sólida experiência em **análise de sistemas**, **dese
 
 ## 📚 Formação Acadêmica
 
-- 🎓 Pós-Graduação em Desenvolvedor Web Full-stack – Faculdade Anhanguera (conclusão em Dez 2025)
+- 🎓 Pós-Graduação em Desenvolvedor Web Full-stack – Faculdade Anhanguera (Previsão conclusão em Dez 2025)
 - 🎓 Pós-Graduação em Ciência de Dados e Inteligência Artificial – Faculdade Anhanguera (MAI/2025)  
 - 🎓 Tecnólogo em Processamento de Dados – FACHA (2003)
 
@@ -20,11 +20,11 @@ Sou um profissional com sólida experiência em **análise de sistemas**, **dese
 ### EMERJ – Escola da Magistratura do Estado do Rio de Janeiro (desde 2000)  
 **Administrador e Analista de Sistemas**
 
-- Assessor de TI do Departamento de Aperfeiçoamento de Magistrados  
+- Responsável pelo TI do Departamento de Aperfeiçoamento de Magistrados  
 - Idealizador do **App Web Magistrados**  
-- Gerente do Sistema de Controle Acadêmico de Magistrados  
-- Desenvolvedor de sistemas web e administrador da plataforma **Moodle**  
-- Responsável pela comunicação entre setores e equipe de desenvolvimento
+- Gerente do Sistema de Controle de Horas de Cursos de Magistrados  
+- Administrador da plataforma **Moodle** para curso dos magistrados do Estado do Rio de Janeiro
+- Responsável pela comunicação entre setores e equipe de desenvolvimento para adequação, correção e nova demandas;
 
 ### PGM – Procuradoria Geral do Município do Rio de Janeiro (2001–2003)  
 **Estagiário de Webmaster**
@@ -37,8 +37,7 @@ Sou um profissional com sólida experiência em **análise de sistemas**, **dese
 ## 🧰 Tecnologias e Habilidades
 
 ### 💻 Linguagens & Frameworks  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![ASP](https://img.shields.io/badge/-ASP-00599C?style=flat&logo=dotnet&logoColor=white)  | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  | ![ASP](https://img.shields.io/badge/-ASP-00599C?style=flat&logo=dotnet&logoColor=white)  | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🧩 Plataformas  
 ![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=flat&logo=moodle&logoColor=white)  
@@ -61,7 +60,7 @@ ISO 9001 • Auditoria Interna • LGPD • Scrum
 
 - Python 3 do básico ao avançado – UDEMY (em andamento)  
 - Desenvolvimento Web Completo – UDEMY (em andamento)  
-- Microsoft AZ-900 e MS-900 – Ka Solution  
+- Microsoft AZ-900 - Azure Fundamentals e MS-900 – Ka Solution  
 - Power BI, Scrum, AWS Discovery Day – Ka Solution  
 - Moodle para Administradores – Gfarias e UDEMY  
 - Formação de Formadores – ENFAM  
@@ -86,6 +85,8 @@ ISO 9001 • Auditoria Interna • LGPD • Scrum
 ---
 
 ## 📊 Estatísticas GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agoliveiraTJ&show_icons=true&theme=default)
 
