@@ -78,9 +78,11 @@ ISO 9001 • Auditoria Interna • LGPD • Scrum
 
 ## 🌐 Contato
 
+<a href="https://www.linkedin.com/in/anderson-oliveira-b6304753/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100px"></a>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-oliveira-b6304753/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agoliveira@gmail.com)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px"/>          
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/agoliveiraTJ)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agoliveira@gmail.com)  
 
 ---
 
