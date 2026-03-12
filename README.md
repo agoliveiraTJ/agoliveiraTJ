@@ -1,86 +1,161 @@
+# 👋 Olá, eu sou Anderson Guedes de Oliveira
 
-# 👋 Olá, eu sou Anderson Guedes de Oliveira!
+💻 Analista de Sistemas | Desenvolvedor Web | Python • PHP • MySQL  
+📍 Rio de Janeiro – Brasil
 
-## 🎯 Administrador e Analista de Sistemas | Desenvolvedor Web Full Stack
+Sou um profissional de Tecnologia da Informação com **mais de 20 anos de experiência em sistemas institucionais**, análise de processos e desenvolvimento de soluções tecnológicas no setor público.
 
-Sou um profissional com sólida experiência em **análise de sistemas**, **desenvolvimento web**, **administração de plataformas educacionais** e **suporte à magistratura**. Atuo desde 2000 na Escola da Magistratura do Estado do Rio de Janeiro (EMERJ), desenvolvendo soluções tecnológicas para o aperfeiçoamento contínuo dos magistrados.
+Atualmente atuo no **Departamento de Informática da Escola da Magistratura do Estado do Rio de Janeiro (EMERJ)** desenvolvendo e mantendo sistemas web institucionais.
 
----
+Tenho experiência em:
 
-## 📚 Formação Acadêmica
+- desenvolvimento web
+- automação de processos com Python
+- análise de sistemas
+- levantamento de requisitos
+- integração entre usuários e equipes de desenvolvimento
 
-- 🎓 Pós-Graduação em Desenvolvedor Web Full-stack – Faculdade Anhanguera (Previsão conclusão em Dez 2025)
-- 🎓 Pós-Graduação em Ciência de Dados e Inteligência Artificial – Faculdade Anhanguera (MAI/2025)  
-- 🎓 Tecnólogo em Processamento de Dados – FACHA (2003)
-
----
-
-## 💼 Experiência Profissional
-
-### EMERJ – Escola da Magistratura do Estado do Rio de Janeiro (desde 2000)  
-**Administrador e Analista de Sistemas**
-
-- Responsável pelo TI do Departamento de Aperfeiçoamento de Magistrados  
-- Idealizador do **App Web Magistrados**  
-- Gerente do Sistema de Controle de Horas de Cursos de Magistrados  
-- Administrador da plataforma **Moodle** para curso dos magistrados do Estado do Rio de Janeiro
-- Responsável pela comunicação entre setores e equipe de desenvolvimento para adequação, correção e nova demandas;
-
-### PGM – Procuradoria Geral do Município do Rio de Janeiro (2001–2003)  
-**Estagiário de Webmaster**
-
-- Desenvolvimento com ASP e SQL  
-- Atualização e manutenção da intranet e dos sites institucionais
+Também participei de **projetos de inovação tecnológica finalistas do Prêmio de Inovação J.Ex (2024 e 2025)**.
 
 ---
 
-## 🧰 Tecnologias e Habilidades
+# 🚀 Tecnologias que utilizo
 
-### 💻 Linguagens & Frameworks  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  | ![ASP](https://img.shields.io/badge/-ASP-00599C?style=flat&logo=dotnet&logoColor=white)  | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🧩 Plataformas  
-![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=flat&logo=moodle&logoColor=white)  | ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
-<!--![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)-->
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Ferramentas  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  | <!--![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | --> ![Adobe](https://img.shields.io/badge/-Adobe-FF0000? style=flat&logo=adobe&logoColor=white)  | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+### Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛡️ Boas práticas  
-ISO 9001 • Auditoria Interna • LGPD • Scrum
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 🎓 Cursos Relevantes
-
-- Python 3 do básico ao avançado – UDEMY (em andamento)  
-- Desenvolvimento Web Completo – UDEMY (em andamento)  
-- Microsoft AZ-900 - Azure Fundamentals e MS-900 – Ka Solution  
-- Power BI, Scrum, AWS Discovery Day – Ka Solution  
-- Moodle para Administradores – Gfarias e UDEMY  
-- Formação de Formadores – ENFAM  
-- Gamificação, LGPD, Computação em Nuvem – ENAP
+### Plataformas
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 🛠️ Projetos e Destaques
+# 💼 Experiência Profissional
 
-- **App Web Magistrados** – Portal completo para juízes com acesso a cursos, legislação, biblioteca e ambiente virtual  
-- **Sistemas internos EMERJ** – Desenvolvimento e gestão de sistemas personalizados de controle acadêmico  
-- **Plataforma Moodle** – Administração e montagem de cursos EaD para capacitação de magistrados
+## EMERJ – Escola da Magistratura do Estado do Rio de Janeiro  
+**Analista de Sistemas / Desenvolvedor Web**  
+📅 2000 – Atual
+
+### Desenvolvimento de Sistemas (2025 – atual)
+
+Atuação no Departamento de Informática desenvolvendo e mantendo sistemas web institucionais.
+
+Principais tecnologias utilizadas:
+
+- PHP
+- MySQL
+- JavaScript
+- HTML / CSS
+- Git
+- Bootstrap
+- arquitetura MVC
 
 ---
 
-## 🌐 Contato
+### Automação de processos com Python (2022 – 2024)
 
-<a href="https://www.linkedin.com/in/anderson-oliveira-b6304753/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100px"></a>
-<a href="https://github.com/agoliveiraTJ" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="120px"/></a>
-<a href="mailto:agoliveira@gmail.com" target="_blank" width="100px"><img src="https://www.svgrepo.com/show/394138/email.svg" width="100px"/></a>
+Desenvolvimento de scripts e pequenas aplicações para automação de tarefas internas e melhoria de processos administrativos.
 
+Resultados:
+
+- redução de tarefas manuais
+- aumento de produtividade do departamento
+- automação de rotinas de dados
 
 ---
 
-## 📊 Estatísticas GitHub
+### Sistema de controle de horas da magistratura (2002 – 2025)
 
-![Anderson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoliveiraTJ&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agoliveiraTJ&show_icons=true&theme=default)
+Administração e evolução do sistema responsável pelo controle de horas de cursos dos magistrados do Estado do Rio de Janeiro.
+
+Principais responsabilidades:
+
+- análise de requisitos
+- validação funcional do sistema
+- interface entre usuários e equipe de desenvolvimento
+- suporte direto aos magistrados
+
+---
+
+# 🏆 Projetos de Inovação
+
+### 📱 WebApp para Magistrados
+
+Projeto que permitiu aos magistrados acompanharem suas horas de cursos e atividades acadêmicas por dispositivos móveis.
+
+- levantamento de requisitos
+- definição funcional da solução
+- validação do sistema
+
+🏆 **2º lugar no Prêmio de Inovação J.Ex 2024**
+
+---
+
+### ⚖️ EMERJ Pontua
+
+Sistema institucional desenvolvido para a EMERJ.
+
+Minha participação:
+
+- apoio no desenvolvimento das telas
+- colaboração na construção da interface
+
+🏆 **Projeto finalista do Prêmio de Inovação J.Ex 2025**
+
+---
+
+# 🎓 Formação Acadêmica
+
+🎓 Pós-Graduação em **Desenvolvimento Web Full Stack**  
+Faculdade Anhanguera – conclusão prevista em 2025
+
+🎓 Pós-Graduação em **Ciência de Dados e Inteligência Artificial**  
+Faculdade Anhanguera – 2025
+
+🎓 Tecnólogo em **Processamento de Dados**  
+FACHA – 2003
+
+---
+
+# 📚 Cursos e Aprimoramento
+
+- Python 3 do básico ao avançado – Udemy
+- Desenvolvimento Web Completo – Udemy
+- Microsoft Azure Fundamentals AZ-900
+- Power BI
+- Scrum
+- AWS Discovery Day
+
+---
+
+# 📊 Estatísticas GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoliveiraTJ&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agoliveiraTJ&show_icons=true)
+
+---
+
+# 🌐 Contato
+
+💼 LinkedIn  
+https://www.linkedin.com/in/anderson-oliveira-b6304753/
+
+🐙 GitHub  
+https://github.com/agoliveiraTJ
+
+📧 Email  
+agoliveira@gmail.com
