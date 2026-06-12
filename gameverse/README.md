@@ -1,18 +1,20 @@
-# Site sobre Video Games
+# GameVerse
 
-Projeto PHP MVC com MySQL para cadastro de Video Games e Jogos.
+Projeto PHP MVC com MySQL para cadastro e consulta de Video Games e Jogos.
 
 ## Requisitos
 
 - PHP 7.4 ou superior
 - MySQL ou MariaDB
-- Apache com `mod_rewrite` ativo, usando XAMPP, Laragon ou servidor PHP comum
+- Apache com `mod_rewrite` ativo ou servidor embutido do PHP
 
-## Instalação rápida
+## Instalacao rapida
 
-1. Copie o projeto para a pasta do servidor local.
-   - XAMPP: `C:\xampp\htdocs\Site sobre Videogames`
-   - Laragon: `C:\laragon\www\Site sobre Videogames`
+1. Use a pasta local do projeto:
+
+```text
+C:\projetos\gameverse
+```
 
 2. No MySQL Workbench, phpMyAdmin ou terminal MySQL, execute:
 
@@ -20,16 +22,22 @@ Projeto PHP MVC com MySQL para cadastro de Video Games e Jogos.
 SOURCE caminho/para/database/videogames.sql;
 ```
 
-3. Confira os dados de conexão em:
+3. Confira os dados de conexao no arquivo:
 
 ```text
 .env
 ```
 
-4. Acesse no navegador:
+4. Para iniciar o servidor local, execute:
 
 ```text
-http://localhost/Site%20sobre%20Videogames/public/
+iniciar-servidor.bat
+```
+
+5. Acesse no navegador:
+
+```text
+http://127.0.0.1:8000/
 ```
 
 ## Rotas principais
